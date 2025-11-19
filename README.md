@@ -35,6 +35,12 @@ Desenvolver e validar um sistema baseado em Inteligência Artificial capaz de in
 - OpenPyXL  
 
 ---
+## 📁 Arquivos Complementares no Google Drive
+
+Alguns materiais utilizados no desenvolvimento deste projeto estão disponíveis também no Google Drive, incluindo documentos auxiliares, versões intermediárias de planilhas e arquivos de apoio:
+
+🔗 **Acessar pasta no Google Drive:**
+https://drive.google.com/drive/folders/1g0RWxph3-KLcATF7IRY0Rql7pchmRdjA?usp=sharing
 
 ## 📂 Estrutura do Repositório
 
@@ -46,9 +52,4 @@ Desenvolver e validar um sistema baseado em Inteligência Artificial capaz de in
 ├── documento/           # Versão final do TCC em PDF/LaTeX
 └── README.md            # Este arquivo
 
-## 📁 Arquivos Complementares no Google Drive
 
-Alguns materiais utilizados no desenvolvimento deste projeto estão disponíveis também no Google Drive, incluindo documentos auxiliares, versões intermediárias de planilhas e arquivos de apoio:
-
-🔗 **Acessar pasta no Google Drive:**
-https://drive.google.com/drive/folders/1g0RWxph3-KLcATF7IRY0Rql7pchmRdjA?usp=sharing
